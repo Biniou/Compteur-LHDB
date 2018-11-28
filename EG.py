@@ -76,6 +76,7 @@ if __name__ == "__main__":
         if len(codeEntree) == len(code):
             if codeEntree == code:
                 print("GG")
+                codeEntree=""
             
             else:
                 print("Raté")
